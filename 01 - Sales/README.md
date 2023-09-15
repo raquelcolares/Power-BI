@@ -9,8 +9,7 @@ The business proposal of this dashboard was to answer the following questions:
 * Question 3 - How many sales were made per country considering the priority of
 delivery?
 * Question 4 - What was the average sales discount by product subcategory?
-* Question 5 - Which countries had the highest average sales value? Demonstrate in a
-map.
+* Question 5 - Which countries had the highest average sales value? 
 
 Observation: The data was filtered by year, by segment and by country. 
 
