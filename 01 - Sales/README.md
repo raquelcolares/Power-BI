@@ -12,7 +12,7 @@ delivery?
 * Question 5 - Which countries had the highest average sales value? Demonstrate in a
 map.
 
-Observation: Filter the data by year, by segment and by country. 
+Observation: The data was filtered by year, by segment and by country. 
 
 
 <img src="https://github.com/raquelcolares/Power-BI/blob/main/01%20-%20Sales/sales%20dashboard.png">
